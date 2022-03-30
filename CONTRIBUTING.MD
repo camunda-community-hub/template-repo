@@ -1,8 +1,4 @@
-# Contributing
-
-[fork]: /fork
-[pr]: /compare
-[CODE_OF_CONDUCT]: CODE_OF_CONDUCT.MD
+## Contributing
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
@@ -14,25 +10,51 @@ If you have suggestions for how this project could be improved, or want to repor
 
 We'd also love PRs. If you're thinking of a large PR, we advise opening up an issue first to talk about it, though! Look at the links below if you're not sure how to open a PR.
 
-### Submitting a pull request
+## Submitting a pull request
 
-1. [Fork][fork] and clone the repository.
-1. Configure and install the dependencies: `npm install`.
-1. Make sure the tests pass on your machine: `npm test`, note: these tests also apply the linter, so there's no need to lint separately.
-1. Create a new branch: `git checkout -b my-branch-name`.
-1. Make your change, add tests, and make sure the tests still pass.
-1. Push to your fork and [submit a pull request][pr].
-1. Pat yourself on the back and wait for your pull request to be reviewed and merged.
+Please feel free to fork this repository and open a pull request to update this documentation.
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+Work in Progress pull requests are also welcome to get feedback early on, or if there is something blocking you that you would like an additional person to take a look at.
 
-- Write and update tests.
-- Keep your changes as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+## Non-Code Camunda community extension contributions
 
-Work in Progress pull requests are also welcome to get feedback early on, or if there is something blocked you.
+If you are interested in contributing to any Camunda Community Hub extension, there are a variety of ways to get involved without having to have coding experience: These include issue triage, writing documentation, and much, much more.
 
-### Resources
+### Event-Based community roles
+
+* Host or organize a Camunda Community Meetup
+* Present your work with Camunda at Meetups
+* Start a new Camunda event near you
+
+### Community education and onboarding
+
+* Help new contributors get started working with the Hub, finding a repository to contribute to, forking a repo, and making their first pull request
+* Getting people involved in writing documentation and issue triage
+* Spreading the word about the Camunda Community Hub to the broader open source community
+* Answering questions on Slack, Discourse, GitHub Project boards, and the Camunda Cloud community forums
+* Create community content
+* Write a blog post about your experience with Camunda, how you built a Community Hub Extension, etc.
+* Be a guest on our Camunda Nation podcast
+* Write walkthroughs, how-to guides, and more
+
+### Issue triage
+
+* Labelling issues in Camunda Community Extension repositories
+* Helping to triage issues by following up where needed, closing stale issues, and more
+* For more information on how to get started with issue triage and labelling, including what issue labels and pull request automation we use in the Camunda Community Hub, please read the [documentation](https://github.com/camunda-community-hub/community/blob/main/issue-triage.md)
+
+### Post-Code specific contributions
+
+These are roles that are not code-based, but require some knowledge in that you will need to have an understanding of the Camunda Community Extension ecosystem, the Camunda codebase, or general programming knowledge.
+
+### Help project maintainers write release notes for their extension
+
+* GitHub management (tags, repositories, etc.)
+* Mentoring new contributors and ensuring they have the tools they need to succeed when contributing to a Camunda Community Hub open source project
+* Writing new or editing existing documentation
+* Updating communication guidelines and expectations
+
+## Resources
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
