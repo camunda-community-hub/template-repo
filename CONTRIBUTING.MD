@@ -1,8 +1,17 @@
-## Contributing
+# Contributing
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/camunda-community-hub/community/blob/main/CODE_OF_CONDUCT.MD). By participating in this project you agree to abide by its terms.
+- [Issues and PRs](#issues-and-prs)
+- [Submitting a pull request](#submitting-a-pull-request)
+- [Non-Code Camunda community extension contributions](#non-code-camunda-community-extension-contributions)
+  - [Event-Based community roles](#event-based-community-roles)
+  - [Community education and onboarding](#community-education-and-onboarding)
+  - [Issue triage](#issue-triage)
+  - [Post-Code specific contributions](#post-code-specific-contributions)
+  - [Help project maintainers write release notes for their extension](#help-project-maintainers-write-release-notes-for-their-extension)
+- [Resources](#resources)
 
 ## Issues and PRs
 
