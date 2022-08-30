@@ -24,7 +24,7 @@ assignees: ''
 <!-- Add a description of your extension's required dependencies here. -->
 
 ### Issues/Challenges
-<!-- Add a description of any issues/challenges that those using your extension might face here. If you don't feel there are any, you can write, 'None,' here. -->
+<!-- Add a description of any issues/challenges that those using your extension might face here. If you don't feel there are any, you can write 'None' here. -->
 
 ### Extension lifecycle
 <!-- Add a description of where your extension falls in the Camunda Community Hub extension lifecycle here. Don't forget to add the applicable lifecycle/ label in a new comment on this issue! Note that if your extension is brand new, the label to apply to it should always be proof-of-concept. -->
